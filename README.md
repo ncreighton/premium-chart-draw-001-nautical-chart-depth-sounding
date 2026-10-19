@@ -1,0 +1,2 @@
+# premium-chart-draw-001-nautical-chart-depth-sounding
+Tired of juggling scattered depth data across spreadsheets, paper logs, and multiple chart windows? The Nautical Chart Depth Sounding Layout Hub consolidates your entire sounding workflow into one clean Notion dashboard.  This template solves the chaos of disorganized sounding records by linking each depth reading directly to a specific chart locat
